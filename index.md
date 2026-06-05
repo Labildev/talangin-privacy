@@ -38,8 +38,6 @@ While using Our Service, We may ask You to provide Us with certain personally id
 *   Email address
 *   First name and last name
 *   Phone number
-*   Address, State, Province, ZIP/Postal code, City
-*   Usage Data
 
 #### Usage Data
 Usage Data is collected automatically when using the Service. It may include information such as Your Device's IP address, browser type, pages visited, time spent on pages, and other diagnostic data.
@@ -101,13 +99,6 @@ We may disclose your Personal Data in the case of:
 
 ## Security of Your Personal Data
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet is 100% secure. We strive to use commercially reasonable means to protect Your Personal Data but cannot guarantee its absolute security.
-
----
-
-## Detailed Information on the Processing of Your Personal Data
-
-**Google Places**
-Google Places is a service that returns information about places using HTTP requests. It is operated by Google. The information gathered is held in accordance with the Privacy Policy of Google: https://www.google.com/intl/en/policies/privacy/
 
 ---
 
